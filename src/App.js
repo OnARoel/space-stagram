@@ -5,7 +5,8 @@ function App() {
     <div className="App">
       <h1>Hello mate</h1>
       <h3>second test</h3>
-    </div>
+      <p>third test line</p>
+    </div> 
   );
 }
 
